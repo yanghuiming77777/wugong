@@ -13,5 +13,12 @@ public class DuGu {
         System.out.println("ashdashdkjahsda");
         System.out.println("ashdashdkjahsda");
         System.out.println("ashdashdkjahsda");
+
+        System.out.println("A");
+        System.out.println("A");
+        System.out.println("A");
+        System.out.println("A");
+        System.out.println("A");
+        System.out.println("A");
     }
 }
